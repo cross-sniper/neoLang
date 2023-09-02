@@ -269,7 +269,7 @@ void executeCustomCode(const std::string &line, const char *argv[],const auto co
                     contents_stream << input.rdbuf();
                     file_contents = contents_stream.str();
                     /* Process file_contents or execute it within the Neo context */
-                    executeCustomCode(file_contents,argv);
+                    executeCustomCode(file_contents,argv,contents);
                 }
             }
         } while (0);
