@@ -1,0 +1,3 @@
+/home/cross/Área de Trabalho/cpp-stuff/neoLang/compiler/build/CMakeFiles/neo.dir
+/home/cross/Área de Trabalho/cpp-stuff/neoLang/compiler/build/CMakeFiles/edit_cache.dir
+/home/cross/Área de Trabalho/cpp-stuff/neoLang/compiler/build/CMakeFiles/rebuild_cache.dir
